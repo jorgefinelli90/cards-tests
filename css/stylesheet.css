@@ -18,7 +18,7 @@
  .card:hover:after{
     height:280px;
  }
- card:hover .con-textp{
+ card:hover .con-text p{
     margin-bottom:0px;
      opacity:1;
  }
@@ -55,7 +55,7 @@
     padding:20px;
     padding-bottom:30px;
  }
- .card .con-textp{
+ .card .con-text p{
     font-size:.8rem;
     opacity:0;
     margin-bottom:-170px;
@@ -65,7 +65,7 @@
     justify-content:flex-end;
     flex-direction:column;
  }
- .card .con-textpbutton{
+ .card .con-text p button{
     padding:7px 17px;
     border-radius:12px;
     background:transparent;
@@ -79,7 +79,7 @@
     font-size:.75rem;
     outline:none;
  }
- .card .con-textpbutton:hover{
+ .card .con-text p button:hover{
     background:#fff;
     color:#000;
  }
